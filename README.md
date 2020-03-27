@@ -1,4 +1,5 @@
-# Miaz1993
+# Mingshan (Mia) Zhang
+# miazhang@uchicago.edu
 Data Scientist Test
 
 Dear recruiter,
