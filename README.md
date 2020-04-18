@@ -1,3 +1,4 @@
 # Mingshan (Mia) Zhang
 product analysis
-- clustering analysis based on user data of game plateform
+- Anomaly Detection
+- Clustering analysis based on user data of game plateform
